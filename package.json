@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/andresin87/pokemon-dataviz#readme",
   "devDependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "node-fetch": "^1.6.3"
+  },
+  "dependencies": {
+    "d3": "^4.2.6"
   }
 }
